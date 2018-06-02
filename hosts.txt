@@ -1,0 +1,5 @@
+www.google.com
+www.microsoft.com
+example.com
+example.com:1234
+www.facebook.com
