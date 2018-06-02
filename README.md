@@ -5,9 +5,7 @@ Dirmon is used for web content discovery, similar to dirbuster, but for mass sca
 Dirmon will mass scan a list of host, based on a wordlist. It will distribute the traffic while scanning across all hosts. After the first run is done, it will scan again and again, in a loop, and will report only new findings.
 
 Default list of hosts: ./hosts.txt
-
 Default wordlist: ./wordlist.txt
-
 Output: ./results.csv + standard output 
 
 ### Prerequisites
